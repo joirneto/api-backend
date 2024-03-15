@@ -1,7 +1,7 @@
 # api.backend
+NodeJs + ExpressJs + Knex + MySql + Yup + GoogleApi +Swagger
 
 ### Pré-requisitos:
-
 Você precisa do NodeJS e do NPM instalado em sua máquina.
 
 ```
